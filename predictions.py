@@ -1,7 +1,7 @@
 # Importing Dependencies
 
-# import tensorflow as tf 
-# from tensorflow import keras
+import tensorflow as tf 
+from tensorflow import keras
 # from tensorflow.keras import layers, datasets, models
 # from tensorflow.keras.layers import Conv2D, MaxPooling2D, Dense, Flatten
 # from tensorflow.keras.callbacks import EarlyStopping
